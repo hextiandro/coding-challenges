@@ -1,0 +1,1 @@
+console.log("\n✅ TypeScript setup is working correctly!");
